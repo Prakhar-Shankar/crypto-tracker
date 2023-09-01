@@ -19,10 +19,9 @@ const Footer = () => {
                 <div className='col'>
                     <h5>Social</h5>
                     <div className="social-media ">
-                        <a className='links' href='/'><FaFacebook className='icon'/></a>
-                        <a className='links' href='/'><FaTwitter className='icon'/></a>
-                        <a className='links' href='/'><FaLinkedin className='icon'/></a>
-                        <a className='links' href='/'><FaGithub className='icon'/></a>
+                        <a className='links' href='https://twitter.com/PrakharShankar2' target='_blank'><FaTwitter className='icon'/></a>
+                        <a className='links' href='https://www.linkedin.com/in/prakhar-shankar-24a788227/'><FaLinkedin className='icon' target='_blank'/></a>
+                        <a className='links' href='https://github.com/Prakhar-Shankar' target='_blank'><FaGithub className='icon'/></a>
                 </div>
                 </div>
             </div>
